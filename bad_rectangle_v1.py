@@ -1,7 +1,9 @@
+"""
+bad_rectangle version 1
+This version not work yet!
 
-# bad_rectangle version 1
-import math
-n = 15
+"""
+n = 12
 counter = 0
 # if n % 3 == 0:
     # print(n//3, n//3, n//3)
@@ -21,6 +23,5 @@ for a in range(1, n-1):
             if a+b > c and a+c > b and b+c > a:
                 print(a, b, c)
                 counter += 1
-
 
 print(counter)

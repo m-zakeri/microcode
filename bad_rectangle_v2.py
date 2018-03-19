@@ -1,5 +1,5 @@
 """
-bad_rectangle version 1
+bad_rectangle version 2
 http://mathworld.wolfram.com/AlcuinsSequence.html
 https://archive.lib.msu.edu/crcmath/math/math/a/a104.htm
 https://en.wikipedia.org/wiki/Alcuin%27s_sequence
